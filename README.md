@@ -3,7 +3,7 @@
 **Студент: Ягфаров Т.И.  
 Группа: М8О-107М-22**
 
-Dataset: https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor
+Dataset: https://www.kaggle.com/datasets/prosperchuks/health-dataset
 
 Выполненные ЛР в ipynb-файликах;  
 Дополнительные материалы по ЛР в папочках  
